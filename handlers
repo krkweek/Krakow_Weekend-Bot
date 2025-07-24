@@ -1,0 +1,5 @@
+from aiogram import Router
+
+def register_verification_handlers(router: Router):
+    # Тут будет регистрация верификационных хендлеров
+    pass
